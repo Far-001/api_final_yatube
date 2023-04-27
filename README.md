@@ -195,4 +195,4 @@ GET /api/v1/posts/?limit=10&offset=0
 ```
 
 Автор: 
-* [Антон Корчагин](https://github.com/Far-001) :tm::
+* [Антон Корчагин](https://github.com/Far-001) :tm:
